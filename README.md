@@ -1,6 +1,6 @@
 # Privacy Policy for YouTube Replay [![YouTube Replay Icon](icon_32_32.jpg)](https://www.youtube.com/watch?v=uE4kBkZDKog)
 
-Last Updated: 2024-06-24
+Last Updated: 2024-06-27
 
 1. Introduction
 
@@ -41,7 +41,7 @@ You have full control over the data stored by the extension interface. You can v
 
 8. Changes to This Privacy Policy
 
-This privacy policy is updated on 24th June, 2024. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top of this policy and here.
+This privacy policy is updated on 27th June, 2024. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top of this policy and here.
 
 9. Contact Us
 
