@@ -1,4 +1,4 @@
-# Privacy Policy for YouTube Replay ![YouTube Replay Icon]()
+# Privacy Policy for YouTube Replay [![YouTube Replay Icon](icon_32_32.jpg)](https://www.youtube.com/watch?v=uE4kBkZDKog)
 
 Last Updated: 2024-06-24
 
