@@ -1,10 +1,11 @@
 # Privacy Policy for YouTube Replay [![YouTube Replay Icon](icon_32_32.jpg)](https://www.youtube.com/watch?v=uE4kBkZDKog)
 
-Last Updated: 2024-06-27
+First Version: 2024-06-27
+Last Update: 2024-08-26
 
 1. Introduction
 
-[YouTube Replay Extension] ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
+[YouTube Replay Extension](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe?hl=en-US&utm_source=ext_sidebar) ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
 
 2. Personal Information
    
